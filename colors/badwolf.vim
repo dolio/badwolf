@@ -645,6 +645,11 @@ call s:HL('VimNotation', 'dress', '', 'none')
 call s:HL('VimBracket', 'dress', '', 'none')
 
 " }}}
+" Bling {{{
+
+" IncSearch colors seem good here
+call s:HL('BlingHilight','coal','tardis','bold')
+" }}}
 
 " }}}
 
